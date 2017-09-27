@@ -1,0 +1,20 @@
+platform :ios, '8.0'
+target "Pentagon_iOS" do
+
+    pod 'MJExtension','~>3.0.13'
+    pod 'Masonry','~>1.0.2'
+    pod 'MJRefresh'
+    pod 'YTKNetwork'
+    pod 'Toast'
+    pod 'DZNEmptyDataSet'
+    pod 'TPKeyboardAvoiding'
+    pod 'MBProgressHUD'
+    pod 'CocoaAsyncSocket'
+    pod 'AFNetworking'
+    pod 'FMDB'
+    pod 'JQFMDB'
+    pod 'YYImage'
+    pod 'Protobuf'
+
+
+end
